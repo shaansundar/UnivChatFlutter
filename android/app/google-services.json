@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "757649445122",
+    "firebase_url": "https://univchatv1.firebaseio.com",
+    "project_id": "univchatv1",
+    "storage_bucket": "univchatv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757649445122:android:9e6f924e1bf52a9cf4721b",
+        "android_client_info": {
+          "package_name": "in.shaansundar.univ_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757649445122-a3ih8sptl53sduedi6u1o7fsjm0dgvhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDENw5yAQ-n8_JWRol-K_-bCYUHrwBZV0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757649445122-a3ih8sptl53sduedi6u1o7fsjm0dgvhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
